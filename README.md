@@ -1,2 +1,2 @@
 # CPI
-streamlit link: https://share.streamlit.io/gwk01/cpi/main/CPI_dashboard.py
+streamlit link: https://gwk01-cpi-mauritania-cpi-dashboard-3jtbbn.streamlitapp.com/
